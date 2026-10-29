@@ -51,19 +51,6 @@ Most of my work lives in private repos — everything below is what I can show.
 
 <br/>
 
-## `$ ls ~/oss`
-
-| Project | What it is |
-| :--- | :--- |
-| **[rs.parser&#8209;nft](https://github.com/Yarfer800/rs.parser-nft)** ⭐ | Telegram NFT-gift parser: instant snapshots of marketplace drops, dedup and alerts — `Rust` `Python` |
-| **[sync&#8209;player](https://github.com/Yarfer800/sync-player)** | Watch-party Telegram Mini App: rooms, a shared player locked to one timecode, realtime chat — `FastAPI` `Redis` `React 19` |
-| **[ferris-os](https://github.com/Yarfer800/ferris-os)** | A minimal Linux distribution written in Rust — safe by default, no bloat — `Rust` `Linux` |
-| **[local&#8209;vless&#8209;mgr](https://github.com/Yarfer800/local-vless-mgr)** | VLESS sources → TCP+TLS probe → GeoIP → Marzban users + sing-box subscription with auto-balancer — `Python` `Docker` |
-| **[l7&#8209;nightcrawler](https://github.com/Yarfer800/l7-nightcrawler)** | Traffic engine with 11 vectors, proxy rotation, live dashboards and measured benchmarks — `Rust` `Tokio` |
-| **[Nvim-Config](https://github.com/Yarfer800/Nvim-Config)** | My daily-driver Neovim setup: LSP, treesitter, zero-lag UX, fully Lua — `Lua` |
-
-<br/>
-
 ## `$ gh stats`
 
 <div align="center">
