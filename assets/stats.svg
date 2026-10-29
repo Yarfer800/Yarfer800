@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 272" width="100%" role="img" aria-label="GitHub stats">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d18"/>
+      <stop offset="60%" stop-color="#0b1120"/>
+      <stop offset="1" stop-color="#111a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.55" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+  </defs>
+  <rect width="560" height="272" rx="16" fill="url(#cardbg)"/>
+  <circle cx="520" cy="252" r="120" fill="#a78bfa" opacity="0.10" filter="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="559" height="271" rx="16" fill="none" stroke="#22314c"/>
+  <text x="28" y="36" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#6b7c96">gh stats --user</text>
+  <rect x="28" y="48" width="168" height="2" rx="1" fill="url(#accent)"/>
+  <text x="28" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c3cede">contributions</text>
+  <text x="532" y="84" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="url(#accent)">17</text>
+  <text x="532" y="99" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6b7c96">past year</text>
+  <text x="28" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c3cede">repositories</text>
+  <text x="532" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="url(#accent)">11</text>
+  <text x="532" y="139" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6b7c96">public, owned</text>
+  <text x="28" y="164" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c3cede">stars earned</text>
+  <text x="532" y="164" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="url(#accent)">21</text>
+  <text x="532" y="179" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6b7c96">across projects</text>
+  <text x="28" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c3cede">followers</text>
+  <text x="532" y="204" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="url(#accent)">2</text>
+  <text x="532" y="219" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6b7c96">and counting</text>
+  <rect x="28" y="240" width="504" height="1" fill="#22314c"/>
+  <text x="28" y="264" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6b7c96">streak: <tspan fill="#22d3ee">0d</tspan> current &amp; <tspan fill="#f472b6">2d</tspan> best</text>
+</svg>
